@@ -62,4 +62,4 @@ This project will help you understand:
 * A `README.md` with setup instructions.  
 * A working API with CRUD operations.  
 
-
+#to run  ,uvicorn.app.main:app --reload
